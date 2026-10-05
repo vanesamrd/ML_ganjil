@@ -1,0 +1,2 @@
+Model,Algoritma,Metrik,Parameter,Jumlah Klaster,Noise (%),Silhouette (own),Silhouette (Euclid),Davies-Bouldin,Calinski-Harabasz,Waktu (s),Iterasi
+KMeans-euclidean,KMeans,Euclidean (L2),k=4,4,0.0,0.1951,0.1951,1.6581,55.22,0.00279,8

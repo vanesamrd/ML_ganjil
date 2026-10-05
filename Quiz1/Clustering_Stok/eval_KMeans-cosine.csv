@@ -1,0 +1,2 @@
+Model,Algoritma,Metrik,Parameter,Jumlah Klaster,Noise (%),Silhouette (own),Silhouette (Euclid),Davies-Bouldin,Calinski-Harabasz,Waktu (s),Iterasi
+KMeans-cosine,KMeans,Cosine,k=3,3,0.0,0.3605,0.2032,1.8103,62.12,0.0039,10

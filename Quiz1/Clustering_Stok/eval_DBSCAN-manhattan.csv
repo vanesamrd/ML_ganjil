@@ -1,0 +1,2 @@
+Model,Algoritma,Metrik,Parameter,Jumlah Klaster,Noise (%),Silhouette (own),Silhouette (Euclid),Davies-Bouldin,Calinski-Harabasz,Waktu (s)
+DBSCAN-manhattan,DBSCAN,Manhattan (L1),"eps=4.0, min_samples=3",2,21.99,0.1715,0.1816,0.9854,5.52,0.002

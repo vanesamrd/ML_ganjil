@@ -1,0 +1,2 @@
+Model,Algoritma,Metrik,Parameter,Jumlah Klaster,Noise (%),Silhouette (own),Silhouette (Euclid),Davies-Bouldin,Calinski-Harabasz,Waktu (s)
+DBSCAN-euclidean,DBSCAN,Euclidean (L2),"eps=2.0, min_samples=3",2,14.54,0.1577,0.1577,1.0197,5.07,0.00257

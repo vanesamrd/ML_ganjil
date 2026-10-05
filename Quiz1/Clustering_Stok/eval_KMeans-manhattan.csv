@@ -1,0 +1,2 @@
+Model,Algoritma,Metrik,Parameter,Jumlah Klaster,Noise (%),Silhouette (own),Silhouette (Euclid),Davies-Bouldin,Calinski-Harabasz,Waktu (s),Iterasi
+KMeans-manhattan,KMeans,Manhattan (L1),k=3,3,0.0,0.2604,0.1992,1.8298,60.79,0.00229,7

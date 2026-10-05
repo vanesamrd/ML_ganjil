@@ -1,0 +1,15 @@
+{
+  "features": [
+    "mean_daily",
+    "max_daily",
+    "trend_weekly_pct",
+    "weekend_ratio",
+    "momentum_30d",
+    "share_morning",
+    "share_evening",
+    "loyalty_share",
+    "avg_price"
+  ],
+  "log_transformed": [],
+  "n_samples": 282
+}
