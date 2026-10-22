@@ -1,0 +1,2 @@
+Model,Algoritma,Metrik,Parameter,Jumlah Klaster,Noise (%),Silhouette (own),Silhouette (Euclid),Davies-Bouldin,Calinski-Harabasz,Waktu (s)
+HDBSCAN,HDBSCAN,Euclidean (L2),"min_cluster_size=5, min_samples=3",4,45.74,0.2173,0.2173,1.4175,32.39,0.00271

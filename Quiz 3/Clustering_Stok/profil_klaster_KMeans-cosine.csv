@@ -1,0 +1,4 @@
+cluster,mean_daily,cv,zero_day_ratio,max_daily,trend_weekly_pct,weekend_ratio,momentum_30d,share_morning,share_evening,loyalty_share,avg_price,jumlah
+0,0.724,1.188,0.49,4.01,0.002,0.997,0.954,0.201,0.471,0.027,21262.626,99
+1,1.179,0.928,0.312,5.347,0.001,1.013,0.924,0.297,0.424,0.025,21800.0,95
+2,0.502,1.442,0.612,3.477,0.006,0.988,0.894,0.302,0.413,0.036,22806.818,88
