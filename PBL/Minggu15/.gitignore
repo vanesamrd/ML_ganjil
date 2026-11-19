@@ -1,0 +1,10 @@
+# Ignore large machine learning artifacts
+*.h5
+*.pkl
+*.keras
+*.ipynb_checkpoints
+
+# Ignore python cache
+__pycache__/
+.venv/
+env/

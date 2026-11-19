@@ -1,0 +1,6 @@
+flask
+tensorflow-cpu
+numpy
+pandas
+scikit-learn
+gunicorn
