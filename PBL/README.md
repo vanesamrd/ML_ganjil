@@ -23,15 +23,7 @@ lalu semua notebook dijalankan ulang memakai dataset yang sama.
 Dataset: `datasetPBL/Transactions.csv` — sama persis (MD5 identik) dengan
 `../data/Transactions.csv`.
 
-## Output
-
-Semua notebook sudah dieksekusi dan disimpan dengan output. Perbandingan dengan
-output yang tersimpan di repo pembanding ada di [`PERBANDINGAN_OUTPUT.md`](PERBANDINGAN_OUTPUT.md).
-
-Ringkasan: **8 SAMA**, **17 BEDA**. Sebagian perbedaan hanya soal format/library dan
-randomness, tetapi angka metrik utama menunjukkan output lama memakai versi dataset
-yang berbeda (harga lebih rendah; `UseLoyaltyCard` saat itu tidak terkait
-`TotalAmount`), sehingga tidak dapat direproduksi persis dengan CSV sekarang.
+Semua notebook sudah dieksekusi dan disimpan lengkap dengan output.
 
 ## Menjalankan
 
